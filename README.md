@@ -11,5 +11,5 @@
 
 <p>
   Verabet, güvenilir yapısı ve kullanıcı odaklı hizmet anlayışıyla öne çıkan bir online bahis platformudur.
-  Spor bahislerinden canlı casinoya, slotlardan özel promosyonlara kadar her alanda avantajlı içerikler sunmaktadır.
+  Spor bahislerinden canlı casinoya, slotlardan özel promosyonlara kadar her alanda avantajlı içerikler sunmaktadır..
 </p>
